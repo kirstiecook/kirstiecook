@@ -1,1 +1,1 @@
-web: java $JVM_OPTS -cp target/helloworld-standalone.jar clojure.main -m hello.world $PORT
+web: java $JVM_OPTS -cp target/site-standalone.jar clojure.main -m site.core $PORT
