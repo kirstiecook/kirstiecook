@@ -4,7 +4,7 @@
 (defn app [req]
   {:status 200
    :headers {"Content-Type" "text/plain"}
-   :body "to do: make todo list"})
+   :body "find me at github.com/kirstiecook/kirstiecook"})
 
 (defn -main [port]
   (jetty/run-jetty app {:port (Integer. port) :join? false}))

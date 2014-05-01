@@ -1,10 +1,10 @@
 # site
 
-A Clojure library designed to ... well, that part is up to you.
+Personal homepage/teach myself Clojure project
 
 ## Usage
 
-FIXME
+being awesome
 
 ## License
 
